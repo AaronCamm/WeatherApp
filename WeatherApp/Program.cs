@@ -12,6 +12,7 @@ namespace WeatherApp
         static string windSpeed;
         static string windDir;
         static string humidity;
+        
         static void Main(string[] args)
         {
             Console.Write("Enter City and Country(Melbourne Australia): ");
